@@ -12,7 +12,7 @@ public class Core {
 		  JavascriptExecutor js = (JavascriptExecutor) driver;
 
           js.executeScript("window.scrollBy(0,350)", "");
-		  driver.manage().window().maximize();
+		  driver.manage().window().maximize()
 	}
 
 }
