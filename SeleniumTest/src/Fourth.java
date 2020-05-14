@@ -15,7 +15,7 @@ public class Fourth {
         
           
           // Launch Website  
-        driver.navigate().to("http://www.google.com/");  
+        driver.navigate().to("http://www.google.com/")
           
            //Maximize the browser  
           driver.manage().window().maximize();  
